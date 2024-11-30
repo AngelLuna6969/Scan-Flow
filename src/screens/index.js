@@ -5,6 +5,6 @@ export * from './Reportes'
 export * from './QrScanner'
 export * from './Ubicaciones'
 export * from './Mobiliario'
-export * from './QRCodeGenerator'
+// export * from './QRCodeGenerator'
 export * from './Login'
 
