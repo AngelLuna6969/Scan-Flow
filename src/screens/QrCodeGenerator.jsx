@@ -22,3 +22,5 @@ export const QRCodeGenerator = ({ data,onClose }) => {
         </div>
     );
 };
+
+export default QRCodeGenerator
