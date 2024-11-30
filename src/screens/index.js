@@ -1,0 +1,10 @@
+export * from './Inicio'
+export * from './Personas'
+export * from './Genera'
+export * from './Reportes'
+export * from './QrScanner'
+export * from './Ubicaciones'
+export * from './Mobiliario'
+export * from './QRCodeGenerator'
+export * from './Login'
+

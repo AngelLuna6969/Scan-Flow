@@ -1,0 +1,8 @@
+{
+    "camera": {
+        "errorPermissionDenied": "El acceso a la cámara ha sido denegado. Por favor, habilita el permiso en la configuración del navegador.",
+        "openCamera": "Abrir Cámara para Escanear",
+        "closeCamera": "Apagar Cámara",
+        "scanTitle": "Escanear Código QR"
+    }
+}
